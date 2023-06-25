@@ -6,3 +6,4 @@ Calculator (JavaScript, HTML):
 https://github.com/aleksandrgarachun/New   
 
 Project resume (HTML, CSS):
+https://github.com/aleksandrgarachun/Resume-project
